@@ -1,0 +1,4 @@
+cuisine: western
+time: breakfast
+budget: >$10
+location: ccp

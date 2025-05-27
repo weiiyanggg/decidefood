@@ -1,0 +1,4 @@
+cuisine: Japanese, Local Delicacies, Western, Fast Food, Korean
+time: Breakfast, Lunch, Dinner
+budget: >$10, <$10
+location: CCP, SUTD
