@@ -4,10 +4,11 @@
   </p>
 </div>
 
-### 🚀 Built With
+## Built With
 
-* [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+* [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)]
 
 ## Set Up
+
 1. Copy the repository link and clone it in Python compatible IDE.
 2. Simple run main.py with python in the IDE's terminal.
